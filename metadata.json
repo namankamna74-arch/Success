@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Interactive Physics Sandbox",
+  "description": "An interactive web application that simulates physics-based collision mechanics within a hexagonal boundary, featuring a particle that responds to user-controlled parameters in real-time with a dynamic starfield background.",
+  "requestFramePermissions": []
+}
